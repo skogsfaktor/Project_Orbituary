@@ -1,0 +1,2 @@
+väggar runt banan som man måste slå sönder innan man kan åka ut (breakout)
+knapp så att man kan skifta bakgrund till svart
